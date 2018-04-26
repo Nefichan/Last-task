@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background:#AA43C5;
+}
+.bg-primary{
+	background-color:#982B9F!important;
+}
+
+.btn-primary{
+	 background-color:#1BD7BC!important;
+	 border-color: #B529AC;
+}
